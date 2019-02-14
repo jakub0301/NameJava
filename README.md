@@ -1,0 +1,2 @@
+# NameJava
+Simlpe Java playground
